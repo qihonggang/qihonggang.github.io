@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 
 📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-Go       2 hrs 15 mins   ██████████████████▒░░░░░░   73.95 % 
-Python   47 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.05 % 
-```
-<!--END_SECTION:waka-->
+
+![Languages](https://wakatime.com/share/@qihonggang/7e45197a-ce90-4315-aed0-0bfdc982d9fc.svg)
+
+
+![Coding Activity](https://wakatime.com/share/@qihonggang/d953d48d-9499-4a3b-91e9-5cb68a99ffe7.svg)
+
