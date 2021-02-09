@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 📊 **This week I spent my time on**
 
-![Languages](https://wakatime.com/share/@qihonggang/56f8f0e2-389b-4de9-b020-ae3303e1fbd9.svg, "Languages over Last 7 Days")
+![Languages](https://wakatime.com/share/@qihonggang/56f8f0e2-389b-4de9-b020-ae3303e1fbd9.svg "Languages over Last 7 Days")
 
 
-![Coding Activity](https://wakatime.com/share/@qihonggang/2537b392-17a2-48c3-8e93-1b63beb6167e.svg, "Coding Activity over Last 7 Days")
+![Coding Activity](https://wakatime.com/share/@qihonggang/2537b392-17a2-48c3-8e93-1b63beb6167e.svg "Coding Activity over Last 7 Days")
 
