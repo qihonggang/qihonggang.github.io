@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **qihonggang/qihonggang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sxxzqhg@gmail.com
 
 
-📊 **This week I spent my time on**
+📊 ##This week I spent my time on
 
 ![Languages](https://wakatime.com/share/@qihonggang/56f8f0e2-389b-4de9-b020-ae3303e1fbd9.svg "Languages over Last 7 Days")
 
