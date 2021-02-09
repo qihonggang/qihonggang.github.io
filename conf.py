@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "qihonggang/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "qihonggang/qihonggang.github.io@gh-pages"
 }
 
 # 站点设置
