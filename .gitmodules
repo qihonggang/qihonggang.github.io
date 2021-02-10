@@ -5,3 +5,7 @@
 	path = Galileo
 	url = https://github.com/AlanDecode/Maverick-Theme-Galileo.git
 	branch = latest
+[submodule "Kepler"]
+	path = Kepler
+	url = https://github.com/AlanDecode/Maverick-Theme-Kepler.git
+	branch = latest
