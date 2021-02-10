@@ -17,6 +17,6 @@ tags:
 
 ## Contact
 
-Email: sxxzqhg@gmail.com
+Email: [sxxzqhg@gmail.com](sxxzqhg@gmail.com)
 
 Telegram：[Hogan Chan](https://t.me/Hogan_Chan)
