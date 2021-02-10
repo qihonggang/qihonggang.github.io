@@ -152,6 +152,14 @@
     
 
     
+        <section id="comments">
+            <div id="vcomments"></div>
+        </section>
+        <script>
+            window.ValineOpt = {"enable": true, "el": "#vcomments", "appId": "5yiD3qya7F59X8bkN8tyr9vY-9Nh9j0Va", "appKey": "aQrMs1hTwcB1ftqiR4ifJBbh"};
+            window.ValineOpt.path = window.location.pathname;
+        </script>
+    
 
     <script>
         document.body.classList.add('content');
@@ -196,6 +204,15 @@
         </script>
 
         <!--Valine-->
+        
+            <script>
+                var initValine = function () {
+                    if (typeof window.ValineOpt === 'object' && $(window.ValineOpt.el).length) {
+                        new Valine(window.ValineOpt);
+                    }
+                }
+            </script>
+            <script async src='https://cdn.jsdelivr.net/npm/valine@1.3.10/dist/Valine.min.js' onload="initValine()"></script>
         
 
         <!--ExSearch-->
