@@ -12,6 +12,7 @@ template = {
     # "name": "Kepler",
     # "type": "local",
     # "path": "../Kepler"
+
     "name": "Kepler",
     "type": "git",
     "url": "https://github.com/AlanDecode/Maverick-Theme-Kepler.git",
@@ -25,7 +26,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "我的个人博客"
 site_logo = "${static_prefix}mylogo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2021-2-10T19:49+08:00"
 author = "Hogan"
 email = "sxxzqhg@gmail.com"
 author_homepage = ""
