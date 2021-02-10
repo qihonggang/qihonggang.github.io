@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    # "name": "Kepler",
+    # "name": "Galileo",
     # "type": "local",
-    # "path": "../Kepler"
+    # "path": "../Galileo"
 
     "name": "Kepler",
     "type": "git",
@@ -80,6 +80,13 @@ social_links = [
         "icon": "gi gi-weibo"
     }
 ]
+
+valine = {
+    "enable": True,
+    "el": '#vcomments',
+    "appId": "5yiD3qya7F59X8bkN8tyr9vY-9Nh9j0Va",
+    "appKey": "aQrMs1hTwcB1ftqiR4ifJBbh",
+}
 
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
