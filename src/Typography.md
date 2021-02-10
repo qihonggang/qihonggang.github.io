@@ -6,7 +6,7 @@ date: 2019-12-18 16:50
 status: publish
 author: AlanDecode
 categories: 
-  - Maverick
+  - 默认分类
 tags:
   - Design
   - Typography

@@ -6,10 +6,10 @@ date: 2021/02/10 19:38:00
 status: publish
 author: Hogan
 categories: 
-  - Maverick
+  - 默认分类
   - Dev
 tags: 
-  - theme
+  - about
 ---
 
 这里是我的个人博客，通过 GitHub 管理与构建。
@@ -17,6 +17,6 @@ tags:
 
 ## Contact
 
-Email: sxxzqhg#gmail.com (replace # with @)
+Email: sxxzqhg@gmail.com
 
-Telegram：[Hogan](https://t.me/qihonggang)
+Telegram：[Hogan Chan](https://t.me/Hogan_Chan)
