@@ -2,9 +2,9 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2021/02/10 19:38:00
 status: publish
-author: AlanDecode
+author: Hogan
 categories: 
   - Maverick
   - Dev
@@ -17,6 +17,6 @@ tags:
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: sxxzqhg#gmail.com (replace # with @)
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+Telegram：[Hogan](https://t.me/qihonggang)

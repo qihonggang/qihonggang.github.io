@@ -29,19 +29,19 @@ site_build_date = "2019-12-18T16:51+08:00"
 author = "Hogan"
 email = "sxxzqhg@gmail.com"
 author_homepage = ""
-description = "JUST DO IT"
+description = "JUST DO IT ! ! !"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "name": "Github",
+        "url": "https://github.com/qihonggang",
+        "brief": "Github"
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "Twitter",
+        "url": "https://twitter.com/qihonggang",
+        "brief": "twitter"
     }
 ]
 nav = [
