@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Iot, Knowledge Graph and Flink.
-- 💬 Ask me about Golang/Java/Python
+- 💬 Ask me about Golang
 - 📫 How to reach me: sxxzqhg@gmail.com
 
 
